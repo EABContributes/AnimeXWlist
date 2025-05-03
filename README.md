@@ -27,7 +27,11 @@ A similar process of data cleaning took place, and additionally many name orders
 
 ### Other Sources
 https://en.wikipedia.org/wiki/List_of_Japanese_manga_magazines_by_circulation
+
 https://en.wikipedia.org/wiki/List_of_manga_magazines 
+
 https://en.wikipedia.org/wiki/List_of_anime_companies 
+
 https://myanimelist.net/people.php
+
 https://myanimelist.net/company
