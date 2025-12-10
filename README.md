@@ -19,7 +19,7 @@ The dictionary is in the format below with no headers:
 
 ## Process
 Data collection was done through a variety of means.
-The included subset of anime series started by cleaning this data set: https://www.kaggle.com/datasets/CooperUnion/anime-recommendations-database?resource=download
+The included subset of anime series started by cleaning this data set: https://www.kaggle.com/datasets/CooperUnion/anime-recommendations-database?resource=download  
 I capitalized, eliminated numbers and special characters, removed whitespace and punctuation, and corrected errors to the best of my ability. Many series were excluded by an arbitrary personal popularity vibe check. Several were replaced with the more popular English or differently romanized name. At first, length was capped at 15 as per NYT daily puzzles, but a select few longer titles were slowly added back in.
 
 For character names, I scraped an unoffical JSON API for MAL: https://api.jikan.moe.
